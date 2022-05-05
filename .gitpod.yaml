@@ -1,5 +1,0 @@
-tasks:
-  - name: Terminal A
-    init: echo 'init script'
-    command: echo 'start script'
-    
